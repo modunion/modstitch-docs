@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Documentation for Modstitch, a gradle plugin to unify official tooling for both Fabric and (Neo)Forge.",
 
   cleanUrls: true,
+  base: "/modstitch-docs",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
