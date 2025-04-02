@@ -21,6 +21,10 @@ export default defineConfig({
             {
               text: "What is Modstitch?",
               link: "/guide/getting-started/what-is-modstitch"
+            },
+            {
+              text: "Setting Up a Modstitch Project",
+              link: "/guide/getting-started/setup"
             }
           ]
         }
